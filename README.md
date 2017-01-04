@@ -5,3 +5,4 @@ i will make with next technologies:
 -Bootstrap
 -Javascript
 -JQuery
+and also add other info
